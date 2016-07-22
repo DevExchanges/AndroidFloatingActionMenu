@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Floating Action Menu</string>
-    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur magna tortor, semper eu feugiat eu, vehicula vitae lacus.</string>
+   <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus porttitor neque, id ultrices odio commodo et. Pellentesque egestas quis dui vitae tempor. Mauris ut ipsum augue. Aliquam efficitur pellentesque arcu id vestibulum. Phasellus vitae porttitor diam. Aliquam a dui rutrum, volutpat ante vel, euismod diam. Donec bibendum sit amet lorem at sollicitudin. Maecenas bibendum magna nec ante congue, placerat mattis tellus ullamcorper. Aenean at orci ligula. Etiam aliquam risus vel egestas faucibus. Maecenas tempus felis id porttitor mattis. In pulvinar vitae felis sed ornare. Morbi nec enim at elit pharetra pulvinar maximus eget dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam blandit ex vel massa ultricies placerat.
+
+Aenean nec magna velit. Sed sed semper urna. Aliquam erat volutpat. Mauris eget tellus ex. Curabitur vitae dignissim mi. Duis turpis nunc, facilisis id pulvinar quis, vulputate in purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus mauris arcu, tristique nec velit a, rhoncus vulputate magna.
+
+Donec at neque vel tortor pellentesque pulvinar id in nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut ligula lacus. Maecenas interdum turpis sed sapien tempor convallis sit amet eu elit. Praesent vulputate nec dolor et dignissim. Suspendisse dapibus nisl id vehicula tempor. Phasellus lobortis dolor lobortis nisl cursus, a auctor leo ornare.
+
+Duis mollis at lectus eget iaculis. Maecenas congue metus commodo consectetur ultrices. Etiam quis purus vitae eros pellentesque fringilla non nec est. Fusce eros magna, consequat a aliquet non, egestas in ex. Aliquam nunc elit, pellentesque eu dui sed, dignissim posuere nulla. Praesent eget pretium ex. Donec elit nulla, vulputate vitae dictum nec, aliquam at turpis. Proin a metus odio. Maecenas mauris nisl, sodales nec lorem convallis, aliquet ullamcorper augue. Aliquam eget rutrum urna.
+
+Vivamus sagittis viverra leo ut accumsan. Curabitur ac consectetur tortor, eu elementum elit. Maecenas gravida eget libero eu lobortis. Cras sapien mi, ultrices vitae egestas et, ultrices vel nisl. Phasellus ornare neque et augue pellentesque, vitae suscipit dui tincidunt. Vestibulum dapibus augue sed dui rhoncus accumsan. Proin efficitur sapien nec odio efficitur pellentesque. Nullam mattis sapien in fermentum malesuada.</string>
 </resources>

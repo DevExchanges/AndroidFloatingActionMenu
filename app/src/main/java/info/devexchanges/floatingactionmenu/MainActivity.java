@@ -18,9 +18,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        fabAdd = (FloatingActionButton) findViewById(R.id.fab1);
-        fabDelete = (FloatingActionButton) findViewById(R.id.fab2);
-        fabEdit = (FloatingActionButton) findViewById(R.id.fab3);
+        fabAdd = (FloatingActionButton) findViewById(R.id.fab2);
+        fabDelete = (FloatingActionButton) findViewById(R.id.fab3);
+        fabEdit = (FloatingActionButton) findViewById(R.id.fab1);
         fam = (FloatingActionMenu) findViewById(R.id.fab_menu);
 
         //handling menu status (open or close)
@@ -39,6 +39,15 @@ public class MainActivity extends AppCompatActivity {
         fabDelete.setOnClickListener(onButtonClick());
         fabEdit.setOnClickListener(onButtonClick());
         fabAdd.setOnClickListener(onButtonClick());
+
+        fam.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                if (fam.isOpened()) {
+                    fam.close(true);
+                }
+            }
+        });
     }
 
     private View.OnClickListener onButtonClick() {
@@ -52,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
                 } else {
                     showToast("Button Edit clicked");
                 }
+                fam.close(true);
             }
         };
     }
